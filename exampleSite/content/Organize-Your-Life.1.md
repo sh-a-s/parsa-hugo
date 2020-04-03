@@ -1,10 +1,11 @@
 ---
-title: Organize Your Life With 10 Simple rule
+title: Organize Your Life With 10 Simple rule 123
 date: 2019-05-14T08:46:10.000+00:00
-description: This is meta description
+description: This is meta description 123
 type: featured
 image: images/featured-post/post-2.jpg
 categories:
+- My category 1
 - Philosophy
 tags:
 - Philosophy
